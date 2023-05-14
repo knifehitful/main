@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+}
+
+.platform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
+img{
+    
+    height: 450px;
+    width: 700px;
+    margin: 0;
+}
